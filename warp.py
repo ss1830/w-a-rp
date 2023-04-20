@@ -6,7 +6,7 @@ import string
 import time
 import os
 import sys
-os.system("title WARP-PLUS-CLOUDFLARE By ALIILAPRO")
+os.system("title W-A-R-P-+- By ss")
 os.system('cls' if os.name == 'nt' else 'clear')
 print('Getting WARP+ Traffic on Github Actions')
 referrer = os.environ["DEVICEID"]
@@ -67,7 +67,7 @@ while True:
 		print(f"[:)] {g} GB has been successfully added to your account.")
 		print(f"[#] Total: {g} Good {b} Bad")
 		print("[*] After 18 seconds, a new request will be sent.")
-		time.sleep(18)
+		time.sleep(19)
 	else:
 		b = b + 1
 		os.system('cls' if os.name == 'nt' else 'clear')
