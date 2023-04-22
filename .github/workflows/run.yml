@@ -6,7 +6,7 @@ on:
     branches:
      - main
   schedule:
-    - cron: '58 * * * *'
+    - cron: '49 0/2 * * *'
 
 jobs:
   auto_getting_traffic:
