@@ -60,14 +60,14 @@ while True:
 		print("")
 		animation = ["[■□□□□□□□□□] 15%","[■■□□□□□□□□] 25%", "[■■■□□□□□□□] 35%", "[■■■■□□□□□□] 45%", "[■■■■■□□□□□] 55%", "[■■■■■■□□□□] 65%", "[■■■■■■■□□□] 75%", "[■■■■■■■■□□] 85%", "[■■■■■■■■■□] 95%", "[■■■■■■■■■■] 100%"] 
 		for i in range(len(animation)):
-			time.sleep(0.5)
+			time.sleep(0.6)
 			sys.stdout.write("\r[+] Preparing... " + animation[i % len(animation)])
 			sys.stdout.flush()
 		print(f"\n[-] WORK ON ID: {referrer}")    
 		print(f"[:)] {g} GB has been successfully added to your account.")
 		print(f"[#] Total: {g} Good {b} Bad")
-		print("[*] After 49 seconds, a new request will be sent.")
-		time.sleep(49)
+		print("[*] After 19 sec-onds, a new re-quest will be s-ent.")
+		time.sleep(19)
 	else:
 		b = b + 1
 		os.system('cls' if os.name == 'nt' else 'clear')
