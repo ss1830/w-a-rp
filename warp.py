@@ -8,7 +8,7 @@ import os
 import sys
 os.system("title W-A-R-P-+- By ss")
 os.system('cls' if os.name == 'nt' else 'clear')
-print('Getting WARP+ Traffic on Github Actions')
+print('Getting W-AR-P+ G')
 referrer = os.environ["DEVICEID"]
 def genString(stringLength):
 	try:
@@ -56,7 +56,7 @@ while True:
 		g = g + 1
 		os.system('cls' if os.name == 'nt' else 'clear')
 		print("")
-		print("Getting WARP+ Traffic")
+		print("Getting W-AR-P+ G")
 		print("")
 		animation = ["[■□□□□□□□□□] 15%","[■■□□□□□□□□] 25%", "[■■■□□□□□□□] 35%", "[■■■■□□□□□□] 45%", "[■■■■■□□□□□] 55%", "[■■■■■■□□□□] 65%", "[■■■■■■■□□□] 75%", "[■■■■■■■■□□] 85%", "[■■■■■■■■■□] 95%", "[■■■■■■■■■■] 100%"] 
 		for i in range(len(animation)):
@@ -66,13 +66,13 @@ while True:
 		print(f"\n[-] WORK ON ID: {referrer}")    
 		print(f"[:)] {g} GB has been successfully added to your account.")
 		print(f"[#] Total: {g} Good {b} Bad")
-		print("[*] After 19 sec-onds, a new re-quest will be s-ent.")
-		time.sleep(19)
+		print("[*] After 49 sec-onds, a new re-quest will be s-ent.")
+		time.sleep(49)
 	else:
 		b = b + 1
 		os.system('cls' if os.name == 'nt' else 'clear')
 		print("")
-		print("Getting WARP+ Traffic")
+		print("Getting W-AR-P+ G")
 		print("")
 		print("[:(] Error when connecting to server.")
 		print(f"[#] Total: {g} Good {b} Bad")
